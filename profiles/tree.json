@@ -1,0 +1,14 @@
+{
+  "allocatedById": [
+    1,
+    3,
+    4,
+    5
+  ],
+  "allocatedByName": [
+    "Essence Rush",
+    "Crystal Resonance",
+    "Delirium Reward Scaling",
+    "Harvest Chance"
+  ]
+}
