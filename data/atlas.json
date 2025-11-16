@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Stream of Consciousness",
+      "description": "Your Maps cannot be modified by Sextants. Your Maps have 8% chance to contain an additional Mechanic",
+      "stats": ["no_sextants", "additional_mechanics"]
+    },
+    {
+      "id": 2,
+      "name": "Wandering Path",
+      "description": "50% less effect of your Allocated Passive Skills in your Atlas Tree. Notable Passive Skills in your Atlas Passive Tree have 100% increased Effect",
+      "stats": ["reduced_passive_effect", "increased_notable_effect"]
+    },
+    {
+      "id": 3,
+      "name": "Shaping the Valleys",
+      "description": "Non-Unique Maps found in your Maps have 5% chance to be 1 tier higher",
+      "stats": ["map_tier_upgrade"]
+    },
+    {
+      "id": 4,
+      "name": "Shaping the Mountains",
+      "description": "Non-Unique Maps found in your Maps have 5% chance to be 1 tier higher",
+      "stats": ["map_tier_upgrade"]
+    },
+    {
+      "id": 5,
+      "name": "Shaping the Seas",
+      "description": "Non-Unique Maps found in your Maps have 5% chance to be 1 tier higher",
+      "stats": ["map_tier_upgrade"]
+    },
+    {
+      "id": 10,
+      "name": "Essence Rush",
+      "description": "Maps have +5% chance to contain Essences",
+      "stats": ["essence_chance"]
+    },
+    {
+      "id": 11,
+      "name": "Crystal Resonance",
+      "description": "Essences found in your Maps have 10% chance to be 1 tier higher",
+      "stats": ["essence_tier"]
+    },
+    {
+      "id": 20,
+      "name": "Delirium Reward Scaling",
+      "description": "Delirium Reward Bars fill 5% faster",
+      "stats": ["delirium_rewards"]
+    },
+    {
+      "id": 21,
+      "name": "Buried Knowledge",
+      "description": "Your Maps have 3% increased chance to contain a Mirror of Delirium",
+      "stats": ["mirror_delirium_chance"]
+    },
+    {
+      "id": 30,
+      "name": "Eater of Worlds Influence Pack Size",
+      "description": "Map Boss has 15% chance to drop an additional Eldritch Ichor",
+      "stats": ["eldritch_ichor"]
+    },
+    {
+      "id": 31,
+      "name": "Searing Exarch Influence Pack Size",
+      "description": "Map Boss has 15% chance to drop an additional Eldritch Ember",
+      "stats": ["eldritch_ember"]
+    },
+    {
+      "id": 100,
+      "name": "Harvest Chance",
+      "description": "Your Maps have +3% chance to contain The Sacred Grove",
+      "stats": ["harvest_chance"]
+    },
+    {
+      "id": 101,
+      "name": "Bumper Crop",
+      "description": "Harvested Plants have 5% chance to spawn an additional Monster",
+      "stats": ["harvest_monsters"]
+    }
+  ]
+}

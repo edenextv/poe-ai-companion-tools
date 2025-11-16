@@ -1,0 +1,22 @@
+{
+  "name": "poe-ai-companion-tools",
+  "version": "1.0.0",
+  "description": "Various tools for using generated LLM content with PoE planner, PoB, etc.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [
+    "poe",
+    "path-of-exile",
+    "atlas",
+    "tree",
+    "planner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
